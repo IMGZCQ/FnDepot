@@ -1,19 +1,20 @@
 {
   "fndesk": {
     "display_name": "fndesk",
-    "desc": "飞牛桌面管理工具",
-    "labels": "工具,效率",
-    "version": "0.75",
+    "desc": "让飞牛成为你的导航页，收藏夹，解决Docker应用没有图标，个性化主题多处自定义设定",
+    "labels": "工具,效率,美化",
+    "version": "0.80.7",
     "icon": "https://raw.githubusercontent.com/IMGZCQ/FnDepot/refs/heads/main/fndesk/ICON.PNG", 
     "download_url": "https://raw.githubusercontent.com/IMGZCQ/FnDepot/refs/heads/main/fndesk/fndesk.fpk", 
-    "maintainer": "米恋泥",
-    "maintainer_url": "https://github.com/IMGZCQ/FnDepot",
-    "bug_report_url": "https://github.com/IMGZCQ/FnDepot",
+    "author": "米恋泥",
+    "author_url": "https://github.com/IMGZCQ/FnDepot",
+    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "33.8 KB",
+    "size": "1",
     "history": {
-      "v1.0.0": "1. 初始版本发布。",
-      "v0.9.0": "1. 首个公开测试版。"
+      "v0.8.7": "外链分享自定义(PC和移动Web端Logo标题描述链接等),优化一键还原,还原后不需要重启,优化窗口最大化/调整默认排序",
+      "v0.79": "窗口/文件夹兼容飞牛窗口不再遮挡,登录页增加记住密码选项",
+      "v0.78": "适配 飞牛 V1.0.0 正式版,集成图标库 + 离线图标包（可选）.优化右键菜单，打开方式及其他细节"
     }
   }
 }
