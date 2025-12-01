@@ -28,6 +28,7 @@
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "0.1"
+    "size": "0.1",
+    "history": {"v0.77":"修复错误,性能优化"}
   }
 }
