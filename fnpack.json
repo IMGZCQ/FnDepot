@@ -1,7 +1,7 @@
 {
   "fndesk": {
     "display_name": "fndesk",
-    "desc": "我的飞牛我做主,多处自定样式主题美化,桌面图标任君摆布,让飞牛成为你的导航页，收藏夹,Docker应用入口",
+    "desc": "飞牛桌面管理工具！多处自定样式主题美化,桌面图标任君摆布,让飞牛成为你的导航页，收藏夹,Docker应用入口~<br>• ✨ 实现图标，文件夹自由，彻底取代收藏夹 • 🌈 多项个性化设置：背景、LOGO、主题库<br> • 👑 多层文件夹，自由缩放拖动，右键菜单 • 🌐 智能识别内外网环境，更多自定义链接<br><br>更多信息请关注:<br>• 飞牛论坛（搜：飞牛桌面管理工具）<br>• GitHub：IMGZCQ/fndesk",
     "labels": "工具,效率,美化",
     "version": "0.83.2",
     "icon": "https://raw.githubusercontent.com/IMGZCQ/FnDepot/refs/heads/main/fndesk/ICON.PNG", 
