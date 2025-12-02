@@ -3,8 +3,7 @@
     "display_name": "飞牛桌面管理工具",
     "desc": "多处自定样式主题美化,桌面图标任君摆布,让飞牛成为你的导航页，收藏夹,Docker应用入口~<br>• ✨ 实现图标，文件夹自由，彻底取代收藏夹 • 🌈 多项个性化设置：背景、LOGO、主题库<br> • 👑 多层文件夹，自由缩放拖动，右键菜单 • 🌐 智能识别内外网环境，更多自定义链接<br><br>更多信息请关注:<br>• 飞牛论坛（搜：飞牛桌面管理工具）<br>• GitHub：IMGZCQ/fndesk",
     "labels": "工具,效率,美化",
-    "version": "0.83.3",
-    "icon": "https://raw.githubusercontent.com/IMGZCQ/FnDepot/refs/heads/main/fndesk/ICON.PNG", 
+    "version": "0.85",
     "download_url": "https://fndesk.imcq.top/FPK/fndesk_0.85.fpk", 
     "author": "米恋泥",
     "author_url": "https://github.com/IMGZCQ/FnDepot",
@@ -15,7 +14,7 @@
       "v0.85": "📢 支持创建飞牛原生图标！APP也能用完美支持FN Connect，适配飞牛内测版1.1.2",
       "v0.80.7": "外链分享自定义(PC和移动Web端Logo标题描述链接等),优化一键还原,还原后不需要重启,优化窗口最大化/调整默认排序",
       "v0.83.2": "适配飞牛1.1.0内测版,每个图标/文件夹增加独立开关,页內窗口/文件夹增加明暗色调ui风格,修复删除文件夹后所属图标无家可归",
-      "更多": "支持创建飞牛原生图标(内测)"
+      "更多": "请到Github仓库了解更多或加群交流"
     }
   }, 
     "fncube": {
