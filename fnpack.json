@@ -9,7 +9,7 @@
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "1",
+    "size": "0.876",
     "history": {
       "v0.86":"☑️ 此版起支持在线升级！适配飞牛1.1.4",
       "v0.85":"📢 支持创建飞牛原生图标！APP也能用完美支持FN Connect，适配飞牛内测版1.1.2",
@@ -27,7 +27,7 @@
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "0.5",
+    "size": "0.455",
     "history": {"v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
   }, 
     "boombird": {
@@ -40,7 +40,7 @@
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "0.9",
+    "size": "0.895",
     "history": {"v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
   }
 }
