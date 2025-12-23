@@ -65,7 +65,7 @@
     "size": "只有0.6",
     "history": {"v0.88":"手动汉化, 优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
   }, 
-    "cutcubes": {
+    "fnwin12": {
     "display_name": "Windows12",
     "desc": "Windows 12 网页版是一个开源项目，由星源原创，使用 HTML、CSS 和 JavaScript，在网络上模拟、创新操作系统。",
     "labels": "模拟,娱乐",
