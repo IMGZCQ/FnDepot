@@ -1,0 +1,14 @@
+, 
+    "fnwin12": {
+    "display_name": "Windows12",
+    "desc": "Windows 12 网页版是一个开源项目，由星源原创，使用 HTML、CSS 和 JavaScript，在网络上模拟、创新操作系统。",
+    "labels": "模拟,娱乐",
+    "version": "10.0.7",
+    "download_url": "https://fndesk.imcq.top/FPK/fnwin12.fpk", 
+    "author": "米恋泥",
+    "author_url": "https://github.com/IMGZCQ/FnDepot",
+    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
+    "install_type": "系统空间",
+    "size": "4.5",
+    "history": {"10.0.7":"修整+打包,原项目:tjy-gitnub/win12"}
+  }
