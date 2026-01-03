@@ -3,7 +3,7 @@
     "display_name": "飞牛桌面管理工具",
     "desc": "多处自定样式主题美化,桌面图标任君摆布,让飞牛成为你的导航页，收藏夹,Docker应用入口~<br>• 🎵 飞牛桌面音乐播放器正式上线！从此桌面不再沉默<br>• ✨ 桌面图标、文件夹完全自由设置，彻底取代收藏夹<br>• 🌈 多项个性化设置：背景，LOGO，标题，预设主题等<br>• 🌐 内外网链接智能识别跳转，更可自定义更多链接<br>• 👑 多层文件夹，最小化托盘，右键菜单，拓展更多功能<br>• ⚙️ 更多自定义：外链分享页，登录页备案信息，飞牛影视<br><br>更多信息请关注：Q群 1039270739 或 GitHub：IMGZCQ/fndesk",
     "labels": "工具,效率,美化",
-    "version": "0.96",
+    "version": "0.97",
     "download_url": "https://fndesk.imcq.top/FPK/fndesk.fpk", 
     "author": "米恋泥",
     "author_url": "https://github.com/IMGZCQ/FnDepot",
