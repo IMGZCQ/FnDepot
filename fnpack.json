@@ -18,39 +18,39 @@
     "display_name": "三阶魔方",
     "desc": "一个完整的三阶魔方",
     "labels": "娱乐, 益智",
-    "version": "0.89",
+    "version": "0.90",
     "download_url": "https://fndesk.imcq.top/FPK/fncube.fpk", 
     "author": "米恋泥",
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
     "size": "大概半个",
-    "history": {"v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
+    "history": {"v0.90":"兼容x86和arm飞牛","v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
   }, 
     "boombird": {
     "display_name": "压爆只雀",
     "desc": "压扁小鸟的解压小游戏",
     "labels": "娱乐, 解压",
-    "version": "0.89",
+    "version": "0.90",
     "download_url": "https://fndesk.imcq.top/FPK/boombird.fpk", 
     "author": "米恋泥",
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
     "size": "不超过1",
-    "history": {"v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
+    "history": {"v0.90":"兼容x86和arm飞牛","v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
   }, 
     "cutcubes": {
     "display_name": "切碎方块",
     "desc": "切碎方块的解压小游戏",
     "labels": "娱乐, 解压",
-    "version": "0.89",
+    "version": "0.90",
     "download_url": "https://fndesk.imcq.top/FPK/cutcubes.fpk", 
     "author": "米恋泥",
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
     "size": "只有0.6",
-    "history": {"v0.88":"手动汉化, 优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
+    "history": {"v0.90":"兼容x86和arm飞牛","v0.88":"手动汉化, 优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
   }
 }
