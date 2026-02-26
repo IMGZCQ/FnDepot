@@ -1,56 +1,67 @@
 {
   "fndesk": {
     "display_name": "飞牛桌面管理工具",
-    "desc": "`多处自定样式主题美化,桌面图标任君摆布,让飞牛成为你的导航页，收藏夹,Docker应用入口~<br>• 🎵 飞牛桌面音乐播放器正式上线！从此桌面不再沉默<br>• ✨ 桌面图标、文件夹完全自由设置，彻底取代收藏夹<br>• 🌈 多项个性化设置：背景，LOGO，标题，预设主题等<br>• 🌐 内外网链接智能识别跳转，更可自定义更多链接<br>• 👑 多层文件夹，最小化托盘，右键菜单，拓展更多功能<br>• ⚙️ 更多自定义：外链分享页，登录页备案信息，飞牛影视<br>• ⬇️ <a target='_blank' href='https://fndesk.imcq.top/?url=dl&at=FnDepot' style='color: #60a5fa;font-size:16px; font-weight: bold; text-decoration: none;'>手动下载链接</a> • 更多信息：Q群 1039270739 或 GitHub：IMGZCQ/fndesk`",
+    "platform": ["x86", "arm"],
     "labels": "工具,效率,美化",
-    "version": "1.1.22.9",
-    "download_url": "https://fndesk.imcq.top/FPK/fndesk_x86.fpk", 
+    "version": "1.1.22.11",
+    "desc": "`多处自定样式主题美化,桌面图标任君摆布,让飞牛成为你的导航页，收藏夹,Docker应用入口~<br>• 🎵 飞牛桌面音乐播放器正式上线！从此桌面不再沉默<br>• ✨ 桌面图标、文件夹完全自由设置，彻底取代收藏夹<br>• 🌈 多项个性化设置：背景，LOGO，标题，预设主题等<br>• 🌐 内外网链接智能识别跳转，更可自定义更多链接<br>• 👑 多层文件夹，最小化托盘，右键菜单，拓展更多功能<br>• ⚙️ 更多自定义：外链分享页，登录页备案信息，飞牛影视<br>• ⬇️ <a target='_blank' href='https://fndesk.imcq.top/?url=dl&at=FnDepot' style='color: #60a5fa;font-size:16px; font-weight: bold; text-decoration: none;'>手动下载链接</a> • 更多信息：Q群 1039270739 或 GitHub：IMGZCQ/fndesk`",
+    "size": "差不多1",
+    "changelog": "🍩 新年快乐,身体健康,开开心心！ ✅已适配arm版飞牛！其他更新细节请到Github查看",
     "author": "米恋泥",
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "差不多1",
-    "history": {
-      "祝大家":"🍩 新年快乐,身体健康,开开心心！ ✅已适配arm版飞牛！其他更新细节请到Github查看"
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://fndesk.imcq.top/FPK/fndesk_x86.fpk",
+      },
+      "arm": {
+        "download_url": "https://fndesk.imcq.top/FPK/fndesk_arm.fpk",
+        "version": "1.1.20.11",
+        "size": "31"
+      }
     }
-  }, 
-    "fncube": {
+  },
+  "fncube": {
     "display_name": "三阶魔方",
-    "desc": "一个完整的三阶魔方",
+    "platform": "all",
     "labels": "娱乐, 益智",
     "version": "0.90",
-    "download_url": "https://fndesk.imcq.top/FPK/fncube.fpk", 
-    "author": "米恋泥",
-    "author_url": "https://github.com/IMGZCQ/FnDepot",
-    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
-    "install_type": "系统空间",
+    "desc": "一个完整的三阶魔方",
     "size": "大概半个",
-    "history": {"v0.90":"兼容x86和arm飞牛","v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
-  }, 
-    "boombird": {
+    "changelog": "v0.90:兼容x86和arm飞牛; v0.88:优化运行环境,支持所有网络下运行,不占用任何端口; v0.77:修复错误,性能优化",
+    "author": "米恋泥",
+    "author_url": "https://github.com/IMGZCQ/FnDepot",
+    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
+    "install_type": "系统空间",
+    "download_url": "https://fndesk.imcq.top/FPK/fncube_x86.fpk"
+  },
+  "boombird": {
     "display_name": "压爆只雀",
+    "platform": "all",
+    "labels": "娱乐, 解压",
+    "version": "0.90",
     "desc": "压扁小鸟的解压小游戏",
-    "labels": "娱乐, 解压",
-    "version": "0.90",
-    "download_url": "https://fndesk.imcq.top/FPK/boombird.fpk", 
-    "author": "米恋泥",
-    "author_url": "https://github.com/IMGZCQ/FnDepot",
-    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
-    "install_type": "系统空间",
     "size": "不超过1",
-    "history": {"v0.90":"兼容x86和arm飞牛","v0.88":"优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
-  }, 
-    "cutcubes": {
-    "display_name": "切碎方块",
-    "desc": "切碎方块的解压小游戏",
-    "labels": "娱乐, 解压",
-    "version": "0.90",
-    "download_url": "https://fndesk.imcq.top/FPK/cutcubes.fpk", 
+    "changelog": "v0.90:兼容x86和arm飞牛; v0.88:优化运行环境,支持所有网络下运行,不占用任何端口; v0.77:修复错误,性能优化",
     "author": "米恋泥",
     "author_url": "https://github.com/IMGZCQ/FnDepot",
     "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
     "install_type": "系统空间",
+    "download_url": "https://fndesk.imcq.top/FPK/boombird_x86.fpk"
+  },
+  "cutcubes": {
+    "display_name": "切碎方块",
+    "platform": "all",
+    "labels": "娱乐, 解压",
+    "version": "0.90",
+    "desc": "切碎方块的解压小游戏",
     "size": "只有0.6",
-    "history": {"v0.90":"兼容x86和arm飞牛","v0.88":"手动汉化, 优化运行环境,支持所有网络下运行,不占用任何端口","v0.77":"修复错误,性能优化"}
+    "changelog": "v0.90:兼容x86和arm飞牛; v0.88:手动汉化, 优化运行环境,支持所有网络下运行,不占用任何端口; v0.77:修复错误,性能优化",
+    "author": "米恋泥",
+    "author_url": "https://github.com/IMGZCQ/FnDepot",
+    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
+    "install_type": "系统空间",
+    "download_url": "https://fndesk.imcq.top/FPK/cutcubes_x86.fpk"
   }
 }
