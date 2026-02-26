@@ -13,7 +13,7 @@
     "install_type": "系统空间",
     "arch_diff": {
       "x86": {
-        "download_url": "https://fndesk.imcq.top/FPK/fndesk_x86.fpk",
+        "download_url": "https://fndesk.imcq.top/FPK/fndesk_x86.fpk"
       },
       "arm": {
         "download_url": "https://fndesk.imcq.top/FPK/fndesk_arm.fpk",
