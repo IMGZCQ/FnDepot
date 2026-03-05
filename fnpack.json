@@ -69,7 +69,7 @@
     "platform": "all",
     "labels": "音乐",
     "version": "1.0.2",
-    "desc": """YesPlayMusic | 高颜值的第三方网易云播放器<br><br>✅ 使用 Vue.js 全家桶开发<br>🔴 网易云账号登录（扫码/手机/邮箱登录）<br>📺 支持 MV 播放<br>📃 支持歌词显示<br>📻 支持私人 FM / 每日推荐歌曲<br>🚫🤝 无任何社交功能<br>🌎️ 海外用户可直接播放（需要登录网易云账号）<br>🔐 支持 UnblockNeteaseMusic，自动使用各类音源替换变灰歌曲链接 （网页版不支持）<br>「各类音源」指默认启用的音源。<br>YouTube 音源需自行安装 yt-dlp。<br>✔️ 每日自动签到（手机端和电脑端同时签到）<br>🌚 Light/Dark Mode 自动切换<br>👆 支持 Touch Bar<br>🖥️ 支持 PWA，可在 Chrome/Edge 里点击地址栏右边的 ➕ 安装到电脑<br>🟥 支持 Last.fm Scrobble<br>☁️ 支持音乐云盘<br>⌨️ 自定义快捷键和全局快捷键<br>🎧 支持 Mpris<br>🛠 更多特性开发中""",
+    "desc": "`YesPlayMusic | 高颜值的第三方网易云播放器<br><br>✅ 使用 Vue.js 全家桶开发<br>🔴 网易云账号登录（扫码/手机/邮箱登录）<br>📺 支持 MV 播放<br>📃 支持歌词显示<br>📻 支持私人 FM / 每日推荐歌曲<br>🚫🤝 无任何社交功能<br>🌎️ 海外用户可直接播放（需要登录网易云账号）<br>🔐 支持 UnblockNeteaseMusic，自动使用各类音源替换变灰歌曲链接 （网页版不支持）<br>「各类音源」指默认启用的音源。<br>YouTube 音源需自行安装 yt-dlp。<br>✔️ 每日自动签到（手机端和电脑端同时签到）<br>🌚 Light/Dark Mode 自动切换<br>👆 支持 Touch Bar<br>🖥️ 支持 PWA，可在 Chrome/Edge 里点击地址栏右边的 ➕ 安装到电脑<br>🟥 支持 Last.fm Scrobble<br>☁️ 支持音乐云盘<br>⌨️ 自定义快捷键和全局快捷键<br>🎧 支持 Mpris<br>🛠 更多特性开发中`",
     "size": "267KB",
     "changelog": "v1.0.2:略微调整然后打包",
     "author": "yesplaymusic",
