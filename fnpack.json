@@ -64,7 +64,7 @@
     "install_type": "系统空间",
     "download_url": "https://fndesk.imcq.top/FPK/cutcubes.fpk"
   },
-  "YesPlayMusic": {
+  "yesplaymusic": {
     "display_name": "一品音乐",
     "platform": "all",
     "labels": "音乐",
