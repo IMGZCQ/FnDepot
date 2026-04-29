@@ -15,7 +15,7 @@
             "install_type": "存储空间",
             "download_url": "https://fndesk.imcq.top/FPK/fndesk_x86.fpk",
             "icon_url": "https://fndepot.imcq.top/fndesk/ICON.PNG",
-            "readme_url": "https://fndepot.imcq.top/fndesk/README.md",
+            "readme_url": "https://raw.githubusercontent.com/IMGZCQ/fndesk/refs/heads/main/README.md",
             "preview_urls": [
                 "https://fndepot.imcq.top/fndesk/Preview/1.jpg",
                 "https://fndepot.imcq.top/fndesk/Preview/2.jpg",
