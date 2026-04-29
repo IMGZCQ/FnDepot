@@ -1,77 +1,136 @@
-{
-  "fndesk": {
-    "display_name": "飞牛桌面管理工具",
-    "platform": ["x86", "arm"],
-    "labels": "音乐,工具,效率,美化",
-    "desc": "`多处自定样式主题美化,桌面图标任君摆布,让飞牛成为你的导航页，收藏夹,Docker应用入口~<br>• 🎵 飞牛桌面音乐播放器正式上线！从此桌面不再沉默<br>• ✨ 桌面图标、文件夹完全自由设置，彻底取代收藏夹<br>• 🌈 多项个性化设置：背景，LOGO，标题，预设主题等<br>• 🌐 内外网链接智能识别跳转，更可自定义更多链接<br>• 👑 多层文件夹，最小化托盘，右键菜单，拓展更多功能<br>• ⚙️ 更多自定义：外链分享页，登录页备案信息，飞牛影视<br>• ⬇️ <a target='_blank' href='https://fndesk.imcq.top/?url=dl&at=FnDepot' style='color: #60a5fa;font-size:16px; font-weight: bold; text-decoration: none;'>手动下载链接</a> • 更多信息：Q群 1039270739 或 GitHub：<a target='_blank' href='https://github.com/IMGZCQ/fndesk' style='color: #60a5fa;font-size:16px; font-weight: bold; text-decoration: none;'>IMGZCQ/fndesk</a>`",    "size": "1",
-    "changelog": "✅ 已适配x86和arm版飞牛！功能太多，其他更新细节请到Github查看",
-    "author": "米恋泥",
-    "author_url": "https://github.com/IMGZCQ/FnDepot",
-    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
-    "install_type": "系统空间",
-    "download_url": "https://fndesk.imcq.top/FPK/fndesk_x86.fpk",
-    "version": "1.1.30.5",
-    "arch_diff": {
-      "arm": {
-        "download_url": "https://fndesk.imcq.top/FPK/fndesk_arm.fpk",
-        "version": "1.1.31"
-      }
+{"source_info": {"name": "米恋泥应用源","author": "米恋泥","homepage": "https://on99.top"},
+    "apps": {
+        "fndesk": {
+            "display_name": "飞牛桌面管理工具",
+            "platform": ["x86","arm"],
+            "labels": "音乐,工具,效率,美化",
+            "desc": "`多处自定样式主题美化,桌面图标任君摆布,让飞牛成为你的导航页，收藏夹,Docker应用入口~<br>• 🎵 飞牛桌面音乐播放器正式上线！从此桌面不再沉默<br>• ✨ 桌面图标、文件夹完全自由设置，彻底取代收藏夹<br>• 🌈 多项个性化设置：背景，LOGO，标题，预设主题等<br>• 🌐 内外网链接智能识别跳转，更可自定义更多链接<br>• 👑 多层文件夹，最小化托盘，右键菜单，拓展更多功能<br>• ⚙️ 更多自定义：外链分享页，登录页备案信息，飞牛影视<br>• ⬇️ <a target='_blank' href='https://fndesk.imcq.top/?url=dl&at=FnDepot' style='color: #60a5fa;font-size:16px; font-weight: bold; text-decoration: none;'>手动下载链接</a> • 更多信息：Q群 1039270739 或 GitHub：<a target='_blank' href='https://github.com/IMGZCQ/fndesk' style='color: #60a5fa;font-size:16px; font-weight: bold; text-decoration: none;'>IMGZCQ/fndesk</a>`",
+            "size": "1",
+            "distributor": "米恋泥",
+            "distributor_url": "https://github.com/IMGZCQ/fndesk",
+            "author": "米恋泥",
+            "author_url": "https://github.com/IMGZCQ/fndesk",
+            "bug_report_url": "https://github.com/IMGZCQ/fndesk/issues",
+            "isdocker": "false",
+            "install_type": "存储空间",
+            "download_url": "https://fndesk.imcq.top/FPK/fndesk_x86.fpk",
+            "icon_url": "https://fndepot.imcq.top/fndesk/ICON.PNG",
+            "readme_url": "https://fndepot.imcq.top/fndesk/README.md",
+            "preview_urls": [
+                "https://fndepot.imcq.top/fndesk/Preview/1.jpg",
+                "https://fndepot.imcq.top/fndesk/Preview/2.jpg",
+                "https://fndepot.imcq.top/fndesk/Preview/3.jpg",
+                "https://fndepot.imcq.top/fndesk/Preview/4.jpg",
+                "https://fndepot.imcq.top/fndesk/Preview/5.jpg",
+                "https://fndepot.imcq.top/fndesk/Preview/6.jpg",
+                "https://fndepot.imcq.top/fndesk/Preview/7.jpg",
+                "https://fndepot.imcq.top/fndesk/Preview/8.jpg",
+                "https://fndepot.imcq.top/fndesk/Preview/9.jpg"
+            ],
+            "changelog": "✅ 已适配x86和arm版飞牛！功能太多，其他更新细节请到Github查看",
+            "version": "1.1.30.5",
+            "arch_diff": {
+                "arm": {
+                    "download_url": "https://fndesk.imcq.top/FPK/fndesk_arm.fpk",
+                    "version": "1.1.31"
+                }
+            }
+        },
+        "fncube": {
+            "display_name": "三阶魔方",
+            "platform": "all",
+            "labels": "娱乐,益智",
+            "version": "0.90",
+            "desc": "一个完整的三阶魔方",
+            "size": "0.5",
+            "distributor": "米恋泥",
+            "distributor_url": "https://github.com/IMGZCQ/fndepot",
+            "author": "米恋泥",
+            "author_url": "https://github.com/IMGZCQ/fndepot",
+            "bug_report_url": "https://github.com/IMGZCQ/fndepot/issues",
+            "isdocker": "false",
+            "install_type": "存储空间",
+            "download_url": "https://fndesk.imcq.top/FPK/fncube.fpk",
+            "icon_url": "https://fndepot.imcq.top/fncube/ICON.PNG",
+            "readme_url": "https://fndepot.imcq.top/fncube/README.md",
+            "preview_urls": [
+                "https://fndepot.imcq.top/fncube/Preview/1.png",
+                "https://fndepot.imcq.top/fncube/Preview/2.png"
+            ],
+            "changelog": "v0.90:兼容x86和arm飞牛; v0.88:优化运行环境,支持所有网络下运行,不占用任何端口; v0.77:修复错误,性能优化"
+        },
+        "boombird": {
+            "display_name": "压爆只雀",
+            "platform": "all",
+            "labels": "娱乐,解压",
+            "version": "0.90",
+            "desc": "压扁小鸟的解压小游戏",
+            "size": "0.9",
+            "distributor": "米恋泥",
+            "distributor_url": "https://github.com/IMGZCQ/fndepot",
+            "author": "米恋泥",
+            "author_url": "https://github.com/IMGZCQ/fndepot",
+            "bug_report_url": "https://github.com/IMGZCQ/fndepot/issues",
+            "isdocker": "false",
+            "install_type": "存储空间",
+            "download_url": "https://fndesk.imcq.top/FPK/boombird.fpk",
+            "icon_url": "https://fndepot.imcq.top/boombird/ICON.PNG",
+            "readme_url": "https://fndepot.imcq.top/boombird/README.md",
+            "preview_urls": [
+                "https://fndepot.imcq.top/boombird/Preview/1.png",
+                "https://fndepot.imcq.top/boombird/Preview/2.png",
+                "https://fndepot.imcq.top/boombird/Preview/3.png"
+            ],
+            "changelog": "v0.90:兼容x86和arm飞牛; v0.88:优化运行环境,支持所有网络下运行,不占用任何端口; v0.77:修复错误,性能优化"
+        },
+        "cutcubes": {
+            "display_name": "切碎方块",
+            "platform": "all",
+            "labels": "娱乐,解压",
+            "version": "0.90",
+            "desc": "切碎方块的解压小游戏",
+            "size": "0.7",
+            "distributor": "米恋泥",
+            "distributor_url": "https://github.com/IMGZCQ/fndepot",
+            "author": "米恋泥",
+            "author_url": "https://github.com/IMGZCQ/fndepot",
+            "bug_report_url": "https://github.com/IMGZCQ/fndepot/issues",
+            "isdocker": "false",
+            "install_type": "存储空间",
+            "download_url": "https://fndesk.imcq.top/FPK/cutcubes.fpk",
+            "icon_url": "https://fndepot.imcq.top/cutcubes/ICON.PNG",
+            "readme_url": "https://fndepot.imcq.top/cutcubes/README.md",
+            "preview_urls": [
+                "https://fndepot.imcq.top/cutcubes/Preview/1.png",
+                "https://fndepot.imcq.top/cutcubes/Preview/2.png",
+                "https://fndepot.imcq.top/cutcubes/Preview/3.png"
+            ],
+            "changelog": "v0.90:兼容x86和arm飞牛; v0.88:手动汉化, 优化运行环境,支持所有网络下运行,不占用任何端口; v0.77:修复错误,性能优化"
+        },
+        "yesplaymusic": {
+            "display_name": "一品音乐",
+            "platform": "all",
+            "labels": "音乐",
+            "version": "1.0.2",
+            "desc": "`YesPlayMusic | 高颜值的第三方网易云播放器<br><br>✅ 使用 Vue.js 全家桶开发<br>🔴 网易云账号登录（扫码/手机/邮箱登录）<br>📺 支持 MV 播放<br>📃 支持歌词显示<br>📻 支持私人 FM / 每日推荐歌曲<br>🚫🤝 无任何社交功能<br>🌎️ 海外用户可直接播放（需要登录网易云账号）<br>🔐 支持 UnblockNeteaseMusic，自动使用各类音源替换变灰歌曲链接 （网页版不支持）<br>「各类音源」指默认启用的音源。<br>YouTube 音源需自行安装 yt-dlp。<br>✔️ 每日自动签到（手机端和电脑端同时签到）<br>🌚 Light/Dark Mode 自动切换<br>👆 支持 Touch Bar<br>🖥️ 支持 PWA，可在 Chrome/Edge 里点击地址栏右边的 ➕ 安装到电脑<br>🟥 支持 Last.fm Scrobble<br>☁️ 支持音乐云盘<br>⌨️ 自定义快捷键和全局快捷键<br>🎧 支持 Mpris<br>🛠 更多特性开发中`",
+            "size": "267KB",
+            "distributor": "米恋泥",
+            "distributor_url": "https://github.com/IMGZCQ/fndepot",
+            "author": "米恋泥",
+            "author_url": "https://github.com/qier222/YesPlayMusic",
+            "bug_report_url": "https://github.com/qier222/YesPlayMusic/issues",
+            "isdocker": "false",
+            "install_type": "存储空间",
+            "download_url": "https://fndesk.imcq.top/FPK/yesplaymusic.fpk",
+            "icon_url": "https://fndepot.imcq.top/yesplaymusic/ICON.PNG",
+            "readme_url": "https://fndepot.imcq.top/yesplaymusic/README.md",
+            "preview_urls": [
+                "https://fndepot.imcq.top/yesplaymusic/Preview/1.png",
+                "https://fndepot.imcq.top/yesplaymusic/Preview/2.png",
+                "https://fndepot.imcq.top/yesplaymusic/Preview/3.png",
+                "https://fndepot.imcq.top/yesplaymusic/Preview/4.png"
+            ],
+            "changelog": "v1.0.2:略微调整然后打包"
+        }
     }
-  },
-  "fncube": {
-    "display_name": "三阶魔方",
-    "platform": "all",
-    "labels": "娱乐,益智",
-    "version": "0.90",
-    "desc": "一个完整的三阶魔方",
-    "size": "0.5",
-    "changelog": "v0.90:兼容x86和arm飞牛; v0.88:优化运行环境,支持所有网络下运行,不占用任何端口; v0.77:修复错误,性能优化",
-    "author": "米恋泥",
-    "author_url": "https://github.com/IMGZCQ/FnDepot",
-    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
-    "install_type": "系统空间",
-    "download_url": "https://fndesk.imcq.top/FPK/fncube.fpk"
-  },
-  "boombird": {
-    "display_name": "压爆只雀",
-    "platform": "all",
-    "labels": "娱乐,解压",
-    "version": "0.90",
-    "desc": "压扁小鸟的解压小游戏",
-    "size": "0.9",
-    "changelog": "v0.90:兼容x86和arm飞牛; v0.88:优化运行环境,支持所有网络下运行,不占用任何端口; v0.77:修复错误,性能优化",
-    "author": "米恋泥",
-    "author_url": "https://github.com/IMGZCQ/FnDepot",
-    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
-    "install_type": "系统空间",
-    "download_url": "https://fndesk.imcq.top/FPK/boombird.fpk"
-  },
-  "cutcubes": {
-    "display_name": "切碎方块",
-    "platform": "all",
-    "labels": "娱乐,解压",
-    "version": "0.90",
-    "desc": "切碎方块的解压小游戏",
-    "size": "0.7",
-    "changelog": "v0.90:兼容x86和arm飞牛; v0.88:手动汉化, 优化运行环境,支持所有网络下运行,不占用任何端口; v0.77:修复错误,性能优化",
-    "author": "米恋泥",
-    "author_url": "https://github.com/IMGZCQ/FnDepot",
-    "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
-    "install_type": "系统空间",
-    "download_url": "https://fndesk.imcq.top/FPK/cutcubes.fpk"
-  },
-  "yesplaymusic": {
-    "display_name": "一品音乐",
-    "platform": "all",
-    "labels": "音乐",
-    "version": "1.0.2",
-    "desc": "`YesPlayMusic | 高颜值的第三方网易云播放器<br><br>✅ 使用 Vue.js 全家桶开发<br>🔴 网易云账号登录（扫码/手机/邮箱登录）<br>📺 支持 MV 播放<br>📃 支持歌词显示<br>📻 支持私人 FM / 每日推荐歌曲<br>🚫🤝 无任何社交功能<br>🌎️ 海外用户可直接播放（需要登录网易云账号）<br>🔐 支持 UnblockNeteaseMusic，自动使用各类音源替换变灰歌曲链接 （网页版不支持）<br>「各类音源」指默认启用的音源。<br>YouTube 音源需自行安装 yt-dlp。<br>✔️ 每日自动签到（手机端和电脑端同时签到）<br>🌚 Light/Dark Mode 自动切换<br>👆 支持 Touch Bar<br>🖥️ 支持 PWA，可在 Chrome/Edge 里点击地址栏右边的 ➕ 安装到电脑<br>🟥 支持 Last.fm Scrobble<br>☁️ 支持音乐云盘<br>⌨️ 自定义快捷键和全局快捷键<br>🎧 支持 Mpris<br>🛠 更多特性开发中`",
-    "size": "267KB",
-    "changelog": "v1.0.2:略微调整然后打包",
-    "author": "米恋泥",
-    "author_url": "https://github.com/qier222/YesPlayMusic",
-    "bug_report_url": "https://github.com/qier222/YesPlayMusic/issues",
-    "install_type": "系统空间",
-    "download_url": "https://fndesk.imcq.top/FPK/yesplaymusic.fpk"
-  }
 }
