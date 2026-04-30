@@ -1,4 +1,9 @@
-{"source_info": {"name": "米恋泥应用源","author": "米恋泥","homepage": "https://on99.top"},
+{
+    "source_info": {
+        "name": "米恋泥应用源",
+        "author": "米恋泥",
+        "homepage": "https://on99.top"
+    },
     "apps": {
         "fndesk": {
             "display_name": "飞牛桌面管理工具",
