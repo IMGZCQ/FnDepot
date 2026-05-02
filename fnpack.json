@@ -80,7 +80,10 @@
     },
     "webssh": {
         "display_name": "WebSSH终端",
-        "platform": "x86",
+        "platform": [
+            "x86",
+            "arm"
+        ],
         "labels": "终端",
         "version": "0.5.0.2",
         "desc": "`浏览器 SSH 终端：多标签、常用命令片段。`",
