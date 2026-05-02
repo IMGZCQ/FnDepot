@@ -82,7 +82,7 @@
         "display_name": "WebSSH终端",
         "platform": "x86",
         "labels": "终端",
-        "version": "0.5.0",
+        "version": "0.5.0.2",
         "desc": "`浏览器 SSH 终端：多标签、常用命令片段。`",
         "size": "48",
         "changelog": "v0.5.0:修复了端口问题",
