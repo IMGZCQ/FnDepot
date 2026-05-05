@@ -93,5 +93,19 @@
         "bug_report_url": "https://github.com/MCBBC",
         "install_type": "存储空间",
         "download_url": "https://fndesk.imcq.top/FPK/webssh.fpk"
+    },
+    "iconstation": {
+        "display_name": "图标空间站",
+        "platform": "all",
+        "labels": "效率, 图像",
+        "version": "0.1",
+        "desc": "私有化图标库，集成多个图标源，直接使用；支持用户自上传收集管理。",
+        "size": "0.3",
+        "changelog": "横空出世",
+        "author": "米恋泥",
+        "author_url": "https://github.com/IMGZCQ/iconstation",
+        "bug_report_url": "https://github.com/IMGZCQ/iconstation/issues",
+        "install_type": "系统空间",
+        "download_url": "https://fndesk.imcq.top/FPK/iconstation.fpk"
     }
 }
