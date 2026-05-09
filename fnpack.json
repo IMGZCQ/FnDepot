@@ -78,7 +78,7 @@
         "install_type": "系统空间",
         "download_url": "https://fndesk.imcq.top/FPK/yesplaymusic.fpk"
     },
-    "mterminal": {
+    "webssh": {
         "display_name": "M-Terminal",
         "platform": "all",
         "labels": "终端",
