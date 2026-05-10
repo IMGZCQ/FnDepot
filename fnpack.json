@@ -94,6 +94,20 @@
         "install_type": "存储空间",
         "download_url": "https://fndesk.imcq.top/FPK/mterminal.fpk"
     },
+    "fniconfree": {
+        "display_name": "图标去哪里",
+        "platform": "all",
+        "labels": "工具,图标,娱乐",
+        "version": "0.3",
+        "desc": "图标去哪里的解压小游戏，兼容x86和arm飞牛\n使用说明：点击图标开启一态，再次点击启动二态，又再点击关闭。enjoy it！",
+        "size": "0.5",
+        "author": "米恋泥",
+        "author_url": "https://github.com/IMGZCQ/FnDepot",
+        "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
+        "install_type": "存储空间",
+        "download_url": "https://fndesk.imcq.top/FPK/fniconfree.fpk",
+        "changelog": "v0.3:兼容x86和arm飞牛; 使用说明：点击图标开启一态，再次点击启动二态，又再点击关闭"
+    },
     "iconstation": {
         "display_name": "图标空间站",
         "platform": "all",
