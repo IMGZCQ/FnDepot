@@ -108,6 +108,20 @@
         "download_url": "https://fndesk.imcq.top/FPK/fniconfree.fpk",
         "changelog": "v0.3:兼容x86和arm飞牛; 使用说明：点击图标开启一态，再次点击启动二态，又再点击关闭"
     },
+    "SpaceCadetPinball": {
+        "display_name": "3D弹球",
+        "platform": "all",
+        "labels": "休闲,娱乐",
+        "version": "1.0",
+        "desc": "Windows经典游戏:3D弹球！\n略微调整,汉化按钮菜单,适配兼容移动端,打包飞牛应用！",
+        "size": "5",
+        "author": "米恋泥",
+        "author_url": "https://github.com/IMGZCQ/FnDepot",
+        "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
+        "install_type": "存储空间",
+        "download_url": "https://fndesk.imcq.top/FPK/SpaceCadetPinball.fpk",
+        "changelog": "v1.0:略微调整,汉化按钮菜单,适配兼容移动端,打包飞牛应用"
+    },
     "iconstation": {
         "display_name": "图标空间站",
         "platform": "all",
