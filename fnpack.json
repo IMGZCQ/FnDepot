@@ -112,7 +112,7 @@
         "display_name": "3D弹球",
         "platform": "all",
         "labels": "休闲,娱乐",
-        "version": "1.1",
+        "version": "1.2",
         "desc": "Windows经典游戏:3D弹球！\n略微调整,汉化按钮菜单,适配兼容移动端,打包飞牛应用！",
         "size": "5",
         "author": "米恋泥",
@@ -120,7 +120,7 @@
         "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
         "install_type": "存储空间",
         "download_url": "https://fndesk.imcq.top/FPK/SpaceCadetPinball.fpk",
-        "changelog": "v1.1: 调整移动端按钮布局\nv1.0: 略微调整,汉化按钮菜单,适配兼容移动端,打包飞牛应用"
+        "changelog": "v1.2: 增加移动端左右触摸区域,移动端竖屏默认只显示弹珠台体验更佳\nv1.1: 调整移动端按钮布局\nv1.0: 略微调整,汉化按钮菜单,适配兼容移动端,打包飞牛应用"
     },
     "iconstation": {
         "display_name": "图标空间站",
