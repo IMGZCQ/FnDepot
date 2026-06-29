@@ -135,5 +135,19 @@
         "bug_report_url": "https://github.com/IMGZCQ/iconstation/issues",
         "install_type": "系统空间",
         "download_url": "https://fndesk.imcq.top/FPK/iconstation.fpk"
+    },
+    "fnpiano": {
+        "display_name": "对飞牛弹琴",
+        "platform": "all",
+        "labels": "音乐, 娱乐",
+        "version": "0.1.6",
+        "desc": "`飞牛上的虚拟钢琴，支持键盘，鼠标，触摸操作。<br>用有限的琴键，演奏无限的音乐。<br><img height=auto width=580px src=https://fndepot.imcq.top/fnpiano/2.webp />`",
+        "size": "0.3",
+        "changelog": "",
+        "author": "米恋泥",
+        "author_url": "https://github.com/IMGZCQ/webpiano",
+        "bug_report_url": "https://github.com/IMGZCQ/webpiano/issues",
+        "install_type": "系统空间",
+        "download_url": "https://fndesk.imcq.top/FPK/fnpiano.fpk"
     }
 }
