@@ -163,7 +163,7 @@
             "version": "0.5",
             "desc": "`直接以飞牛桌面当前画面的拼图游戏，也支持用户自选图片，难度自由调节。无后台服务0占用CGI运行，兼容x86和arm飞牛<br><img height=auto width=580px src=https://fndepot.imcq.top/fndesk_jigsaw/1.webp />`",
             "size": "0.3",
-            "changelog": "",
+            "changelog": "初始版本上线，支持自定义图片与多档位难度，无后台低资源占用",
             "author": "米恋泥",
             "author_url": "https://github.com/IMGZCQ/FnDepot",
             "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
