@@ -149,8 +149,8 @@
         "bug_report_url": "https://github.com/IMGZCQ/webpiano/issues",
         "install_type": "系统空间",
         "download_url": "https://fndesk.imcq.top/FPK/fnpiano.fpk"
-    }
-    "fndeskjigsaw": {
+    },
+    "fndesk_jigsaw": {
         "display_name": "飞牛桌面拼图",
         "platform": "all",
         "labels": "游戏, 娱乐",
