@@ -150,4 +150,19 @@
         "install_type": "系统空间",
         "download_url": "https://fndesk.imcq.top/FPK/fnpiano.fpk"
     }
+},
+    "fndesk_jigsaw": {
+        "display_name": "飞牛桌面拼图",
+        "platform": "all",
+        "labels": "游戏, 娱乐",
+        "version": "0.5",
+        "desc": "`直接以飞牛桌面当前画面的拼图游戏，也支持用户自选图片，难度自由调节。无后台服务0占用CGI运行，兼容x86和arm飞牛<br><img height=auto width=580px src=https://fndepot.imcq.top/fndesk_jigsaw/1.webp />`",
+        "size": "0.3",
+        "changelog": "",
+        "author": "米恋泥",
+        "author_url": "https://github.com/IMGZCQ/FnDepot",
+        "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
+        "install_type": "系统空间",
+        "download_url": "https://fndesk.imcq.top/FPK/fndesk_jigsaw.fpk"
+    }
 }
