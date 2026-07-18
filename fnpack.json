@@ -36,11 +36,11 @@
         "https://fndepot.imcq.top/fndesk/Preview/9.jpg"
       ],
       "changelog": "✅ 已适配x86和arm版飞牛！功能太多，其他更新细节请到Github查看",
-      "version": "1.2.0203.3",
+      "version": "1.2.0203.4",
       "arch_diff": {
         "arm": {
           "download_url": "https://fndesk.imcq.top/FPK/fndesk_arm.fpk",
-          "version": "1.2.0200.3"
+          "version": "1.2.0200.4"
         }
       }
     },
