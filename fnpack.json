@@ -13,7 +13,7 @@
             "author_url": "https://github.com/IMGZCQ/FnDepot",
             "bug_report_url": "https://github.com/IMGZCQ/FnDepot/issues",
             "install_type": "系统空间",
-            "download_url": "https://fndesk.imcq.top/FPK/fndesk_x86.fpk",
+            "download_url": "https://fndesk.imcq.top/?url=fndesk_x86_FPK",
             "version": "1.2.0505",
             "arch_diff": {
                 "arm": {
