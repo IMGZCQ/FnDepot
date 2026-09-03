@@ -126,7 +126,7 @@
             "display_name": "图标空间站",
             "platform": "all",
             "labels": "效率,图像",
-            "version": "0.3.8",
+            "version": "0.3.9",
             "desc": "`内置30000+图标，打造属于自己的图标库，私有化图标库，集成多个图标源，支持一键复制使用；<br>用户可自上传图标进行个性化收集管理，数据本地持久化安全存储，全平台支持。<br><img height=auto width=580px src=https://fndesk.imcq.top/images/iconstation_%E6%A8%AA%E5%B9%85720.webp />`",
             "size": "0.3",
             "changelog": "• 修复本地离线包本地离线包的标志提示（绿色），移除无效的日志输入\n• 修复离线包引用问题\n• 新增对MP4和WebM格式的支持，增加上传进度显示\n• 修复图标名称显示问题，优化性能和稳定性",
