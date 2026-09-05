@@ -122,6 +122,21 @@
             "download_url": "https://fndesk.imcq.top/FPK/SpaceCadetPinball.fpk",
             "changelog": "v1.2: 增加移动端左右触摸区域,移动端竖屏默认只显示弹珠台体验更佳\nv1.1: 调整移动端按钮布局\nv1.0: 略微调整,汉化按钮菜单,适配兼容移动端,打包飞牛应用"
         },
+        "CloudflareQT": {
+            "display_name": "Cloudflare快捷隧道",
+            "platform": "all",
+            "labels": "效率,工具",
+            "version": "0.1.7",
+            "desc": "`🚀 史上最快最便捷让你10秒内建立穿透隧道<br> ✨ 无需注册Cloudflare账号、无需申请API密钥和Token<br> 👶 简直是小白的福音、开发者的调试利器<br> 🔗 一键为任意本地本地服务暴露到公网快速访问<br> 🌐 由 Cloudflare 自动分配公网域名<br> 📋 支持多隧道管理、开机自动启动、实时日志查看`",
+            "size": "12MB",
+            "changelog": "• 支持创建/编辑/删除临时隧道，自动分配公网域名<br>• 支持自动启动、实时日志查看与 cloudflared 自动下载",
+            "author": "米恋泥",
+            "author_url": "https://github.com/IMGZCQ/CloudflareQT",
+            "bug_report_url": "https://github.com/IMGZCQ/CloudflareQT/issues",
+            "install_type": "系统空间",
+            "download_url": "https://fndesk.imcq.top/?url=CloudflareQT"
+        },
+
         "iconstation": {
             "display_name": "图标空间站",
             "platform": "all",
@@ -136,6 +151,9 @@
             "install_type": "系统空间",
             "download_url": "https://fndesk.imcq.top/FPK/iconstation.fpk"
         },
+
+
+
         "fnpiano": {
             "display_name": "对飞牛弹琴",
             "platform": "all",
