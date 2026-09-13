@@ -17,7 +17,7 @@
             "version": "1.2.0604.2",
             "arch_diff": {
                 "arm": {
-                    "download_url": "https://fndesk.imcq.top/?url=fndesk_x86_FPK",
+                    "download_url": "https://fndesk.imcq.top/?url=fndesk_arm_FPK",
                     "version": "1.2.0604.2"
                 }
             }
