@@ -37,7 +37,7 @@
       "install_type": "",
       "is_docker": false,
       "releases": {
-        "1.2.0604.3": {
+        "1.2.0604.5": {
           "changelog": "✅ 全新GO重构版，能大幅提升占用只有十几MB！功能太多，其他更新细节请到Github查看",
           "packages": {
             "x86": {
