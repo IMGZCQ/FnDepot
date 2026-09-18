@@ -86,7 +86,7 @@
         }
       }
     },
-    "CloudflareQT": {
+    "Cloudflare-QT": {
       "display_name": "Cloudflare快捷隧道",
       "desc": "`🚀 史上最快最便捷让你10秒内建立穿透隧道<br> ✨ 无需注册Cloudflare账号、无需申请API密钥和Token<br> 👶 简直是小白的福音、开发者的调试利器<br> 🔗 一键为任意本地本地服务暴露到公网快速访问<br> 🌐 由 Cloudflare 自动分配公网域名<br> 📋 支持多隧道管理、开机自动启动、实时日志查看`",
       "platform": [
