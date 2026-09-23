@@ -98,7 +98,11 @@
       "icon_url": "https://fndepot.imcq.top/Cloudflare-QT/ICON.PNG",
       "preview_urls": [
         "https://fndepot.imcq.top/Cloudflare-QT/1.webp",
-        "https://fndepot.imcq.top/Cloudflare-QT/2.webp"
+        "https://fndepot.imcq.top/Cloudflare-QT/2.webp",
+        "https://fndepot.imcq.top/Cloudflare-QT/3.webp",
+        "https://fndepot.imcq.top/Cloudflare-QT/4.webp",
+        "https://fndepot.imcq.top/Cloudflare-QT/5.webp",
+        "https://fndepot.imcq.top/Cloudflare-QT/6.webp"
       ],
       "readme_url": "https://raw.githubusercontent.com/IMGZCQ/Cloudflare-QT/refs/heads/main/README.md",
       "bug_report_url": "https://github.com/IMGZCQ/Cloudflare-QT/issues",
