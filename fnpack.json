@@ -1,7 +1,7 @@
 {
   "schema_version": "2",
   "source_info": {
-    "name": "🚀米恋泥Github源🔥",
+    "name": "🌈米恋泥应用源👑",
     "author": "米恋泥",
     "homepage": "https://on99.top"
   },
@@ -81,6 +81,42 @@
           "packages": {
             "all": {
               "download_url": "https://fndesk.imcq.top/?url=iconstation"
+            }
+          }
+        }
+      }
+    },
+	"one_port_panel": {
+      "display_name": "单口面板 One Port Panel",
+      "desc": "`🚪单口面板（One Port Panel）：全网首个单域名单端口反代多个Web服务的应用<br>单端口一体化管理面板：集成 反向代理、终端、文件、分享、静态站点等常用运维功能，一个端口统一对外。<br><b>单口代理</b> · 单域名单端口反代多个后端，各后端原生跑在根路径。<br><b>本地终端</b> · 浏览器里的多会话终端，后台保活、随时重连。<br><b>文件管理</b> · 在线浏览、编辑、上传下载与文件操作。<br><b>外链分享</b> · 为文件或目录生成带密码/有效期的分享链接。<br><b>静态站点</b> · 把任意目录一键发布为静态网站。`",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "https://fndepot.imcq.top/one_port_panel/ICON.PNG",
+      "preview_urls": [
+        "https://fndepot.imcq.top/one_port_panel/1.webp",
+        "https://fndepot.imcq.top/one_port_panel/2.webp",
+        "https://fndepot.imcq.top/one_port_panel/3.webp",
+        "https://fndepot.imcq.top/one_port_panel/4.webp"
+      ],
+      "readme_url": "",
+      "bug_report_url": "",
+      "maintainer": "米恋泥",
+      "maintainer_url": "",
+      "distributor": "米恋泥",
+      "distributor_url": "",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "releases": {
+        "0.3.31": {
+          "changelog": "• 全网首个单域名单端口反代多个Web服务的应用：单口复用反向代理、Web 终端、文件管理、文件分享与静态站点托管。",
+          "packages": {
+            "all": {
+              "download_url": "https://fndepot.imcq.top/one_port_panel/one_port_panel.fpk"
             }
           }
         }
