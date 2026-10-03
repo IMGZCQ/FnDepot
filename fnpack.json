@@ -112,7 +112,7 @@
       "install_type": "",
       "is_docker": false,
       "releases": {
-        "0.3.32": {
+        "0.5.1": {
           "changelog": "• 全网首个单域名单端口反代多个Web服务的应用：单口复用反向代理、Web 终端、文件管理、文件分享与静态站点托管。",
           "packages": {
             "all": {
