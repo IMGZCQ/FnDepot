@@ -112,11 +112,11 @@
       "install_type": "",
       "is_docker": false,
       "releases": {
-        "0.6.3": {
+        "0.6.5": {
           "changelog": "• 全网首个单域名单端口反代多个Web服务的应用：单口复用反向代理、Web 终端、文件管理、文件分享与静态站点托管。",
           "packages": {
             "all": {
-              "download_url": "https://fndepot.imcq.top/port_one/port_one_0.6.3.fpk"
+              "download_url": "https://fndepot.imcq.top/port_one/port_one_0.6.5.fpk"
             }
           }
         }
