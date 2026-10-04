@@ -102,7 +102,7 @@
         "https://fndepot.imcq.top/port_one/3.webp",
         "https://fndepot.imcq.top/port_one/4.webp"
       ],
-      "readme_url": "https://github.com/IMGZCQ/Port-One/blob/main/README.md",
+      "readme_url": "https://github.com/IMGZCQ/Port-One/blob/main/使用手册.md",
       "bug_report_url": "https://github.com/IMGZCQ/Port-One",
       "maintainer": "米恋泥",
       "maintainer_url": "https://github.com/IMGZCQ/Port-One",
@@ -112,11 +112,11 @@
       "install_type": "",
       "is_docker": false,
       "releases": {
-        "0.5.1": {
+        "0.6.3": {
           "changelog": "• 全网首个单域名单端口反代多个Web服务的应用：单口复用反向代理、Web 终端、文件管理、文件分享与静态站点托管。",
           "packages": {
             "all": {
-              "download_url": "https://fndepot.imcq.top/port_one/port_one.fpk"
+              "download_url": "https://fndepot.imcq.top/port_one/port_one_0.6.3.fpk"
             }
           }
         }
