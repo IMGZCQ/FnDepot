@@ -126,6 +126,42 @@
         }
       }
     },
+    "AT-ForceField": {
+      "display_name": "飞牛AT力场",
+      "desc": "飞牛AT力场，为飞牛 NAS 提供的硬件防护解决方案。<br>通过模拟 AT 力场的防护机制，在飞牛系统底层为您的 NAS 提供全方位的安全防护。包括系统入侵防护、数据保护、异常行为检测等功能，守护您的数字资产安全。<br>当使用者同步率与飞牛达到200%时，将为飞牛展开开心之壁的绝对领域。<br>• AT 力场防护：构建安全屏障，抵御各类威胁<br>• 实时入侵检测：智能监控异常行为，及时阻止潜在风险<br>• 数据安全加固：多重防护机制，保障您的数据安全<br>• 一键启用：简单配置，轻松开启全方位防护",
+      "platform": [
+        "all"
+      ],
+      "categories": [
+        "系统工具"
+      ],
+      "icon_url": "https://fndepot.imcq.top/AT/ICON.PNG",
+      "preview_urls": [
+        "https://fndepot.imcq.top/AT/1.webp",
+        "https://fndepot.imcq.top/AT/2.webp",
+        "https://fndepot.imcq.top/AT/3.webp",
+        "https://fndepot.imcq.top/AT/4.webp"
+      ],
+      "readme_url": "https://github.com/IMGZCQ/MDesk/blob/main/MDesk%20使用手册.md",
+      "bug_report_url": "https://github.com/IMGZCQ/MDesk",
+      "maintainer": "米恋泥",
+      "maintainer_url": "https://github.com/IMGZCQ/MDesk",
+      "distributor": "米恋泥",
+      "distributor_url": "https://fndesk.imcq.top",
+      "run_as": "root",
+      "install_type": "",
+      "is_docker": false,
+      "releases": {
+        "0.1.50": {
+          "changelog": "飞牛AT力场，为飞牛 NAS 提供的硬件防护解决方案。<br>通过模拟 AT 力场的防护机制，在飞牛系统底层为您的 NAS 提供全方位的安全防护。包括系统入侵防护、数据保护、异常行为检测等功能，守护您的数字资产安全。<br>当使用者同步率与飞牛达到200%时，将为飞牛展开开心之壁的绝对领域。<br>• AT 力场防护：构建安全屏障，抵御各类威胁<br>• 实时入侵检测：智能监控异常行为，及时阻止潜在风险<br>• 数据安全加固：多重防护机制，保障您的数据安全<br>• 一键启用：简单配置，轻松开启全方位防护",
+          "packages": {
+            "all": {
+              "download_url": "https://fndesk.imcq.top/?url=AT_FPK"
+            }
+          }
+        }
+      }
+    },
     "Cloudflare-QT": {
       "display_name": "Cloudflare快捷隧道",
       "desc": "`🚀 史上最快最便捷让你10秒内建立穿透隧道<br> ✨ 无需注册Cloudflare账号、无需申请API密钥和Token<br> 👶 简直是小白的福音、开发者的调试利器<br> 🔗 一键为任意本地本地服务暴露到公网快速访问<br> 🌐 由 Cloudflare 自动分配公网域名<br> 📋 支持多隧道管理、开机自动启动、实时日志查看`",
