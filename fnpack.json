@@ -142,10 +142,10 @@
         "https://fndepot.imcq.top/AT/3.webp",
         "https://fndepot.imcq.top/AT/4.webp"
       ],
-      "readme_url": "https://github.com/IMGZCQ/MDesk/blob/main/MDesk%20使用手册.md",
-      "bug_report_url": "https://github.com/IMGZCQ/MDesk",
+      "readme_url": "https://github.com/IMGZCQ/AT-Field/blob/main/README.md",
+      "bug_report_url": "https://github.com/IMGZCQ/AT-Field",
       "maintainer": "米恋泥",
-      "maintainer_url": "https://github.com/IMGZCQ/MDesk",
+      "maintainer_url": "https://github.com/IMGZCQ/AT-Field",
       "distributor": "米恋泥",
       "distributor_url": "https://fndesk.imcq.top",
       "run_as": "root",
